@@ -31,3 +31,4 @@
 
 To verify your download, check the **SHA-256** hash:
 SHA For .exe is sha256:59d6d6847318f08bbe5c30d49b154092afb347a8af7cf8542befeeffe3ef01be
+And make forks of it  to make it you own add updates what ever 
