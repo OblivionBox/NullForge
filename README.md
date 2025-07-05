@@ -1,48 +1,33 @@
 # 🕶️ NullForge
 
-**NullForge** is a sleek, privacy-oriented file shredder designed to permanently erase digital traces with style. Whether you're wiping documents, vaporizing directories, or securing sensitive files—NullForge offers fast, flexible destruction backed by a clean dark mode UI.
+**NullForge** is a stealth-grade, dark-themed file shredder designed for permanent data obliteration. Whether you're wiping sensitive files or purging entire directories, NullForge gives you full control over how deeply your data gets destroyed.
 
 ---
 
-## 🔒 Features
+## 🚀 Alpha 1.0.0 Highlights
 
-- 🗂 **Multi-file shredding** with batch selection
-- 📦 **Folder support** via zip-then-shred flow
-- 🔁 **Customizable overwrite passes** (choose your level of paranoia)
-- 🖤 **Dark mode GUI** for sleek visibility and zero glare
-- ✅ **"Done" confirmation pop-ups** for completed operations
-- 🎯 **Packaged `.exe` with embedded icon** via `auto-py-to-exe`
-
----
-
-## 🚀 How to Use
-
-1. **Download `NullForge.exe`** from the Releases section  
-2. **Double-click to launch** the app—no install needed  
-3. Choose your files or folders  
-4. Enter how many overwrite passes you want (e.g. 7 or 35)  
-5. Shred with confidence—nothing's coming back
-
-> ⚠️ Warning: Once shredded, files and folders cannot be recovered. NullForge is built for *serious* digital deletion.
+- 🗂 Multi-file shredder with batch selection  
+- 📦 Folder zip-and-shred process for deep deletion  
+- 🔁 Customizable overwrite passes (e.g. 7, 35)  
+- 🖤 Dark mode GUI with smooth layout  
+- ✅ End-of-operation “Done” confirmation boxes  
+- 🗃 Standalone `.exe` with custom icon built via PyInstaller  
 
 ---
 
-## 💻 Tech Stack
+## 🧾 How to Use
 
-- Python 3.x  
-- `tkinter` (GUI)  
-- `secrets`, `os`, `zipfile`, `tempfile` (file operations)  
-- Packaged with `auto-py-to-exe`
+1. Download `NullForge.exe` from the **Releases** section  
+2. Double-click to open the GUI  
+3. Choose files or folders to destroy  
+4. Enter overwrite pass count  
+5. Execute and watch data disappear  
 
----
-
-## 📄 License
-
-**No license provided. All rights reserved.**
-
-You may use NullForge for personal purposes only.  
-Redistribution, modification, or commercial use is not permitted without prior written consent.
+> ⚠️ Files deleted by NullForge **cannot be recovered**. Proceed with caution.
 
 ---
 
-## 🔗 Creator
+## 🔐 File Integrity
+
+To verify your download, check the **SHA-256** hash:
+SHA For .exe is sha256:59d6d6847318f08bbe5c30d49b154092afb347a8af7cf8542befeeffe3ef01be
