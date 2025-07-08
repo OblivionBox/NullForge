@@ -1,0 +1,12 @@
+This Python application:
+- Does not collect, process, or transmit any personal data
+- Operates entirely offline
+- Has no internet access, telemetry, or background network requests
+- Does not require or store user identifiers, cookies, or tracking information
+🔧 Dependencies
+The app only uses standard or explicitly declared Python libraries and modules. These are all processed locally on your device.
+🤝 Third Parties
+None. This app does not interface with any third-party services, SDKs, APIs, or trackers.
+👨‍💻 Developer Contact
+If you have questions, feel free to contact the developer
+https://github.com/id12b
